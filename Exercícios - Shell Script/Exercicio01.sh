@@ -9,11 +9,11 @@ read num2
 
 echo ""
 echo "===== CALCULADORA ====="
-echo "1. Soma"
-echo "2. Subtração"
-echo "3. Multiplicação"
-echo "4. Divisão"
-echo "5. Sair"
+echo "1. Soma "
+echo "2. Subtração "
+echo "3. Multiplicação "
+echo "4. Divisão "
+echo "5. Sair "
 echo "======================="
 echo "Escolha uma opção:"
 read opcao
